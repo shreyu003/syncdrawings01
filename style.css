@@ -76,7 +76,7 @@ body {
 }
 .form-box iframe{
     width: 100%;
-    height: 600px;
+    height: 480px;
 }
 .video-box h2,
 .form-box h2 {
@@ -212,10 +212,6 @@ header {
         margin: 0 auto;
         width: 95%;
         padding: 0 25px;
-    }
-    .form-box iframe {
-        width: 100%;
-        height: 490px;
     }
 }
 
