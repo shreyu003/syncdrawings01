@@ -226,6 +226,7 @@ header {
     .logo span {
         font-size: 26px;
     }
+    header .container,
     .footer .container{
         padding: 0;
     }
