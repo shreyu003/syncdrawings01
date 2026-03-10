@@ -206,19 +206,16 @@ header {
     color: #ff0000;
 }
 
-@media screen and (max-width: 1280px) {
-    .form-box iframe {
-        width: 100%;
-        height: 490px;
-    }
-}
-
 @media screen and (max-width: 1200px){
     .container {
         max-width: 1360px;
         margin: 0 auto;
         width: 95%;
         padding: 0 25px;
+    }
+    .form-box iframe {
+        width: 100%;
+        height: 490px;
     }
 }
 
