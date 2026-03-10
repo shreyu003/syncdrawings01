@@ -205,10 +205,6 @@ header {
 .color-red{
     color: #ff0000;
 }
-.footer-link{
-    text-decoration: none;
-    color: #00aeff;
-}
 
 @media screen and (max-width: 1280px) {
     .form-box iframe {
