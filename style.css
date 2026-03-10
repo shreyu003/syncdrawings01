@@ -225,10 +225,9 @@ header {
     max-width: 1360px;
     margin: 0 auto;
     width: 95%;
-    padding: 0 25px;
   }
   .form-box {
-    height: 1380px;
+    height: 1330px;
   }
   .form-box iframe {
     width: 100%;
@@ -273,7 +272,7 @@ header {
     font-size: 28px;
   }
   .form-box {
-    height: 1460px;
+    height: 1420px;
   }
   .form-box iframe {
     width: 100%;
@@ -287,7 +286,7 @@ header {
 }
 .video-box, .form-box {
    
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
 }
 }
@@ -321,7 +320,7 @@ header {
     padding: 0;
   }
   .form-box {
-    height: 1700px;
+    height: 1600px;
   }
   .form-box iframe {
     width: 100%;
