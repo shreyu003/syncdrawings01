@@ -163,16 +163,9 @@ header {
     bottom: 0;
     left: 0;
 }
-
-.footer-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-}
-
 .footer-text {
     font-size: 14px;
+    text-align: center;
 }
 .color-red{
     color: red;
@@ -215,11 +208,6 @@ header {
 }
 
 @media screen and (max-width:600px) {
-    .footer-container {
-        flex-direction: column;
-        gap: 8px;
-        text-align: center;
-    }
     .video-box h2, .form-box h2 {
         font-size: 17px;
     }
