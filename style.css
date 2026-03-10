@@ -168,10 +168,11 @@ header {
     text-align: center;
 }
 .color-red{
-    color: red;
+    color: #ff0000;
 }
 .footer-link{
-    color: #fff;
+    text-decoration: none;
+    color: #00aeff;
 }
 
 @media screen and (max-width: 1200px){
